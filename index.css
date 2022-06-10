@@ -65,11 +65,24 @@ button {
   background-color: #5c0099;
   color: white;
   transition: filter .5s;
-  margin-bottom: 60px;
+  margin-bottom: 50px;
   width: 80%;
 }
 
 button:hover {
   filter: brightness(1.2);
   cursor: pointer;
+}
+
+#resposta {
+  margin-top: 30px;
+
+  transition: opacity 1s;
+}
+
+#resposta div {
+  font-size: 16px;
+  font-weight: normal;
+  opacity: 0.9;
+  margin-bottom: 10px;
 }
