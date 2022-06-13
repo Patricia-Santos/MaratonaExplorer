@@ -15,6 +15,11 @@
   </p>
 
   <br> 
+  
+  🧩 Você pode acessar essa aplicação por: <br>
+  https://patricia-santos.github.io/MaratonaExplorer/
+  
+  <br>
 
   🤖 TECNOLOGIAS:
 
